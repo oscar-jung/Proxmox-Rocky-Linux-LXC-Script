@@ -1,0 +1,2 @@
+# Keep LF so the script runs on Proxmox even if committed from Windows
+*.sh text eol=lf
